@@ -1,35 +1,36 @@
 # Nova-Retail-Dashboard
 
-🛍️ Nova Retail Analytics – Power BI Dashboard
-An interactive Power BI dashboard developed for Nova Retail, a fast-growing retail company with diverse product lines, customer segments, and multiple centers. The project goes beyond simple data visualization to uncover hidden sales patterns and enable smarter, data-driven business decisions.
+🛍️ Nova Retail Analytics Dashboard
+This project presents an interactive Power BI dashboard for Nova Retail, designed to transform raw sales and promotion data into actionable business insights. The dashboard not only visualizes performance but also uncovers hidden patterns that guide data-driven decision-making.
 
-📊 Key Focus Areas
-Sales Performance → Identified which products, categories, and time periods drive the most revenue.
-Promotion & Discount Effectiveness → Analyzed whether promotions and discounts actually increase sales or waste resources.
+🚀 Project Goals
 
-🔎 Business Questions Addressed
-Which items respond positively to promotions?
-Do discounts always lead to higher sales, or are some products unresponsive?
-Do salary days or holidays show sales spikes?
-Which promotion types (multibuy, basket, vendor unit) provide the best ROI?
+- Track sales performance: Identify top products, categories, and time periods driving revenue.
+- Evaluate promotion & discount effectiveness: Understand whether campaigns actually increased sales or wasted resources.
+- Provide a 360° business view for leadership to optimize strategy and spending.
 
-🛠️ Approach & Methodology
-Data Cleaning & Transformation → Corrected data types and structured raw data.
-Time Dimension & Day-Type Tables → Created custom tables to analyze holiday, salary-day, and weekly trends.
-Promotion Measures → Defined unit, brand, basket, and multibuy promotions for comparison.
-Visualization → Built interactive dashboards for sales overview, promotion analysis, and discount analysis.
+🔧 What We Did
 
-📈 Dashboard Highlights
-Sales Overview: Weekly sales trends, top items, and day-type analysis.
-Promotion Analysis: Effectiveness of different promotion strategies and top uplift items.
-Discount Analysis: Relationship between discounts and sales; identified products with poor discount response.
+- Cleaned and transformed raw retail data.
+- Built custom time and day-type tables for trend analysis (holidays, salary days, weekdays).
+- Developed measures for multiple promotion types (multibuy, basket, unit, brand).
+- Designed three interactive report pages:
+  - Sales Overview → Weekly sales, top items, day-type comparison.
+  - Promotion Analysis → Effectiveness by promotion type, item-level uplift.
+  - Discount Analysis → Correlation between discounts and sales performance.
+  
+📈 Key Findings
 
-💡 Key Insights
-Promotions drive 50% of sales, with vendor and multibuy promos being most effective.
-Holiday sales underperform, suggesting missed opportunities for targeted campaigns.
-Discounting isn’t always effective, as some products remain low-performing despite price cuts.
+- Promotions drive nearly half of total sales, but vendor & multibuy promotions are most impactful.
+- Holiday sales underperform — a missed opportunity for targeted campaigns.
+- Discounts alone don’t guarantee success; certain products remain low-selling despite price cuts.
 
 ✅ Recommendations
-Focus on high-ROI promotions (vendor & multibuy).
-Launch holiday-targeted campaigns to capture untapped demand.
-Optimize discounting by targeting only items that respond well.
+
+- Double down on high-ROI promotions (vendor & multibuy).
+- Create strategic holiday campaigns to capture untapped demand.
+- Use smart discounting — focus on items proven to respond positively.
+
+🌟 Tools & Skills
+
+Power BI | DAX | Data Cleaning & Transformation | Business Insights | Data Visualization
